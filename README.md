@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkshitChilkoti
-- 👀 I’m interested in Animation, Coding and Programming
+- 👀 I’m interested in Coding, Programming and Animation
 - 🌱 I’m currently learning C++, C, Go and Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me akshitchilkoti@outlook.com
